@@ -1,0 +1,15 @@
+{
+  "readableLineLength": true,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "_/"
+  ],
+  "uriCallbacks": true,
+  "showInlineTitle": false
+}
