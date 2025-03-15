@@ -4,7 +4,7 @@
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": true,
+  "autoCreate": false,
   "enableCollapsing": false,
   "excludeFolders": [
     {
@@ -23,15 +23,15 @@
   ],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
-  "underlineFolder": false,
+  "underlineFolder": true,
   "stopWhitespaceCollapsing": true,
-  "underlineFolderInPath": false,
+  "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
-  "folderNoteName": "README.md",
+  "folderNoteName": "README",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
-  "newFolderNoteName": "README.md",
+  "newFolderNoteName": "README",
   "storageLocation": "insideFolder",
   "syncDelete": false,
   "showRenameConfirmation": true,
@@ -62,7 +62,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "file_explorer",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md"
   ],
@@ -100,7 +100,7 @@
     "string": "",
     "hideInSettings": false
   },
-  "hideCollapsingIcon": false,
+  "hideCollapsingIcon": true,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
   "deleteFilesAction": "obsidianTrash"
