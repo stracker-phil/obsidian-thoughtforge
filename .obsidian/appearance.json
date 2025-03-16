@@ -1,5 +1,6 @@
 {
   "showRibbon": false,
   "translucency": false,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 18
 }
