@@ -4,8 +4,8 @@ cssclasses:
 ---
 # Keyboard Shortcuts
 
->[!info]- Instructions
->You can add, change or remove keyboard shortcuts in the Obsidian Settings page for **Hotkeys**
+>[!info]- Getting Started
+>Review the keyboard shortcuts below. If you want to change, remove or add shortcuts, you can do this on the Obsidian Settings page for **Hotkeys**
 
 ==TODO: The current mapping is for macOS; the ⌘ key does not exist on Windows or Linux, and it mapped to ⌃. So the shortcuts should not use CMD + CTRL at the same time, as this would conflict with windows. One solution would be to ship two "hotkeys.json" files with the Vault and allow users to choose which one to start with (or choose one based on the current os)==
 
