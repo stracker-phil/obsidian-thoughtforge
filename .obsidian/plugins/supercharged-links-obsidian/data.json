@@ -1,0 +1,26 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "1-Journal",
+      "matchCaseSensitive": true,
+      "match": "startswith",
+      "uid": "a811-3e24",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    }
+  ]
+}
