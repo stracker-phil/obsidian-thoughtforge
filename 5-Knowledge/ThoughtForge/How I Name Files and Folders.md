@@ -26,11 +26,14 @@ I use prefixes to identify file types at a glance:
 - I use title case (capitalize first letter of each word)
 
 ### Singular vs. Plural
+
 I'm consistent with how I name different types of folders:
-- Singular for concept folders: `Tool`, `Project`, `Agent` 
+
+- Singular for concept folders: `Tool`, `Project`, `Agent`
 - Plural for collection folders: `Templates`, `Prompts`, `Scripts`
 
 ### Abbreviations
+
 I stick with one format for abbreviations (always `AI`, never `A.I.`)
 
 I revisit these conventions periodically to make sure they still serve my workflow. The goal isn't perfect organization but making information easy to find for my future self.

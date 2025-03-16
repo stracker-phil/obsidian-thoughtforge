@@ -1,11 +1,7 @@
----
-cssclasses:
-  - test
----
 # Keyboard Shortcuts
 
->[!info]- Getting Started
->Review the keyboard shortcuts below. If you want to change, remove or add shortcuts, you can do this on the Obsidian Settings page for **Hotkeys**
+> [!info]- Getting Started
+> Review the keyboard shortcuts below. If you want to change, remove or add shortcuts, you can do this on the Obsidian Settings page for **Hotkeys**
 
 ==TODO: The current mapping is for macOS; the ⌘ key does not exist on Windows or Linux, and it mapped to ⌃. So the shortcuts should not use CMD + CTRL at the same time, as this would conflict with windows. One solution would be to ship two "hotkeys.json" files with the Vault and allow users to choose which one to start with (or choose one based on the current os)==
 
@@ -23,7 +19,6 @@ cssclasses:
 | `⌘ ⇧ E`  | Toggle edit mode between preview and source mode |
 | `⌃ P`    | Add a property to the note                       |
 | `⌃ ⇧ P`  | Show or hide properties in the note              |
-
 
 **Journal**
 
@@ -69,4 +64,3 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 | `F4`<br>`⌃ ⌘ S`  | Show or hide right sidebar |
 | `⌃ D`<br>`⌃ ⇥`   | Focus next open tab        |
 | `⌃ A`<br>`⌃ ⇧ ⇥` | Focus previous open tab    |
-

@@ -7,6 +7,7 @@ An Obsidian vault template, carefully crafted for developers.
 ThoughtForge is a knowledge management system designed specifically for software developers. It provides an opinionated Obsidian vault structure with developer-friendly organization, workflows, and integrations.
 
 This vault template helps you:
+
 - Organize your professional and personal knowledge
 - Capture code snippets, project decisions, and technical documentation
 - Separate work and personal projects effectively
@@ -20,8 +21,8 @@ This vault template helps you:
 - [ ] Optionally rename `4-Quests` to `4-Projects` or `4-Ventures` if you prefer
 
 **Explore documentation**
-- [ ] Check `5-Knowledge/ThoughtForge` for detailed [[5-Knowledge/ThoughtForge/README|documentation]]
-- Tip: Some files contain a "Getting Started" section at the top with customization notes
+- [ ] Check `5-Knowledge/ThoughtForge` for detailed [documentation](5-Knowledge/ThoughtForge/README).
+	Tip: Some files contain a "Getting Started" section at the top with customization notes
 
 **Start using the vault**
 - [ ] Create your first note - hotkey `⌘ N` or `Ctrl N`
