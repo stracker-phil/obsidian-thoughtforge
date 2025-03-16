@@ -8,10 +8,10 @@
   "file-explorer:new-folder": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Mod"
       ],
-      "key": "N"
+      "key": "`"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -221,6 +221,13 @@
         "Shift"
       ],
       "key": "U"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "7"
     }
   ],
   "editor:toggle-numbered-list": [
@@ -230,6 +237,13 @@
         "Shift"
       ],
       "key": "O"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "8"
     }
   ],
   "editor:toggle-highlight": [
@@ -267,5 +281,15 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": ";"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

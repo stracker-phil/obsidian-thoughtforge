@@ -27,29 +27,36 @@ cssclasses:
 
 **Journal**
 
-| Shortcut   | Action                 |
-| ---------- | ---------------------- |
-| `⌘ ⌥ O`  | Open today's daily note                          |
-| `⌘ ⌃ ←` | To previous day (when a Journal note is open) |
-| `⌘ ⌃ → ` | To next day (when a Journal note is open) |
+| Shortcut | Action                                        |
+| -------- | --------------------------------------------- |
+| `⌘ ⌥ O`  | Open today's daily note                       |
+| `⌥ ←`    | To previous day (when a Journal note is open) |
+| `⌥ → `   | To next day (when a Journal note is open)     |
 
 **Editor**
 
-| Shortcut   | Action                 |
-| ---------- | ---------------------- |
-| `⌥ ↑`      | Move current line up   |
-| `⌥ ↓`      | Move current line down |
-| ``⌘ ⇧ ` `` | Create code block      |
-| ``⌘ ` ``   | Toggle inline code     |
-| `⌘ H`      | Toggle highlight       |
-| `⌘ ⇧ O`    | Toggle ordered list    |
-| `⌘ ⇧ U`    | Toggle unordered list  |
+Editing text is inspired by keyboard shortcuts on GitHub.
+
+| Shortcut           | Action                 |
+| ------------------ | ---------------------- |
+| `⌥ ↑`              | Move current line up   |
+| `⌥ ↓`              | Move current line down |
+| ``⌘ ⇧ ` ``         | Create code block      |
+| ``⌘ ` ``           | Toggle inline code     |
+| `⌘ B`              | Toggle bold       |
+| `⌘ I`              | Toggle italic       |
+| `⌘ K`              | Insert link       |
+| `⌘ L`              | Toggle checkbox/task       |
+| `⌘ H`              | Toggle highlight       |
+| `⌘ ⇧ O`<br>`⌘ ⇧ 7` | Toggle ordered list    |
+| `⌘ ⇧ U`<br>`⌘ ⇧ 8` | Toggle unordered list  |
+| `⌘ ⇧ .`            | Toggle block quote     |
 
 **Folders**
 
 | Shortcut | Action                |
 | -------- | --------------------- |
-| `⌃ ⌘ N`  | New folder            |
+| `⌘ ⌥ N`  | New folder            |
 | `F2`     | Rename current folder |
 | `⌘ ⌫`    | Delete current folder |
 
@@ -58,8 +65,8 @@ cssclasses:
 | Shortcut         | Action                     |
 | ---------------- | -------------------------- |
 | `⌘ P`            | Command palette            |
-| `F3` or `⌃ S`    | Show or hide left sidebar  |
-| `F4` or `⌃ ⌘ S`  | Show or hide right sidebar |
-| `⌃ D` or `⌃ ⇥`   | Focus next open tab/note   |
-| `⌃ A` or `⌃ ⇧ ⇥` | Focus on previous tab/note |
-|                  |                            |
+| `F3`<br>`⌃ S`    | Show or hide left sidebar  |
+| `F4`<br>`⌃ ⌘ S`  | Show or hide right sidebar |
+| `⌃ D`<br>`⌃ ⇥`   | Focus next open tab        |
+| `⌃ A`<br>`⌃ ⇧ ⇥` | Focus previous open tab    |
+
