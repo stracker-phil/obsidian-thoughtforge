@@ -11,5 +11,6 @@
     "_/"
   ],
   "uriCallbacks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
