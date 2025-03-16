@@ -1,13 +1,17 @@
-# Keyboard Shortcuts
+# Important Keyboard Shortcuts
 
 > [!info]- Getting Started
 > Review the keyboard shortcuts below. If you want to change, remove or add shortcuts, you can do this on the Obsidian Settings page for **Hotkeys**
 
-==TODO: The current mapping is for macOS; the ⌘ key does not exist on Windows or Linux, and it mapped to ⌃. So the shortcuts should not use CMD + CTRL at the same time, as this would conflict with windows. One solution would be to ship two "hotkeys.json" files with the Vault and allow users to choose which one to start with (or choose one based on the current os)==
+> [!info]- Mapping for Windows and Linux
+> The shortcuts below are documented for macOS. When using this vault on Windows or Linux, the shortcuts are mapped to the following meta keys:
+>
+> - `⌘` .. The `Ctrl` key
+> - `⌃` .. The `Ctrl` key
+> - `⌥` .. The `Alt` key
+> - `⌃ ⌘` .. The `Ctrl` key (might conflict with other hotkeys)
 
----
-
-**Notes**
+## Notes
 
 | Shortcut | Action                                           |
 | -------- | ------------------------------------------------ |
@@ -17,38 +21,45 @@
 | `⌘ F12`  | Reveal current file in navigation (left sidebar) |
 | `⌘ E`    | Toggle between editing and reading mode          |
 | `⌘ ⇧ E`  | Toggle edit mode between preview and source mode |
-| `⌃ P`    | Add a property to the note                       |
-| `⌃ ⇧ P`  | Show or hide properties in the note              |
-| `⌘ F`    | Search in current note contents                  |
+| `⇧ ⌥ P`  | Add a property to the note                       |
+| `⌃ ⌥ P`  | Show or hide properties in the note              |
 
-**Journal**
+### Navigate in Current Note
+
+| Shortcut | Action                          |
+| -------- | ------------------------------- |
+| `⌘ R`    | Outline of current note         |
+| `⌘ F`    | Search in current note contents |
+
+## Journal
 
 | Shortcut | Action                                        |
 | -------- | --------------------------------------------- |
 | `⌘ ⌥ O`  | Open today's daily note                       |
 | `⌥ ←`    | To previous day (when a Journal note is open) |
-| `⌥ → `   | To next day (when a Journal note is open)     |
+| `⌥ →`   | To next day (when a Journal note is open)     |
 
-**Editor**
+## Editor
 
 Editing text is inspired by keyboard shortcuts on GitHub.
 
-| Shortcut           | Action                 |
-| ------------------ | ---------------------- |
-| `⌥ ↑`              | Move current line up   |
-| `⌥ ↓`              | Move current line down |
-| ``⌘ ⇧ ` ``         | Create code block      |
-| ``⌘ ` ``           | Toggle inline code     |
-| `⌘ B`              | Toggle bold       |
-| `⌘ I`              | Toggle italic       |
-| `⌘ K`              | Insert link       |
-| `⌘ L`              | Toggle checkbox/task       |
-| `⌘ H`              | Toggle highlight       |
-| `⌘ ⇧ O`<br>`⌘ ⇧ 7` | Toggle ordered list    |
-| `⌘ ⇧ U`<br>`⌘ ⇧ 8` | Toggle unordered list  |
-| `⌘ ⇧ .`            | Toggle block quote     |
+| Shortcut       |Alias    | Action                 |
+| --------------|---- | ---------------------- |
+| `⌥ ↑`           |   | Move current line up   |
+| `⌥ ↓`          |    | Move current line down |
+| ``⌘ ⇧ ` ``      |   | Create code block      |
+| ``⌘ ` ``       |    | Toggle inline code     |
+| `⌘ B`          |    | Toggle bold            |
+| `⌘ I`           |   | Toggle italic          |
+| `⌘ K`         |     | Insert link            |
+| `⌘ L`          |    | Toggle checkbox/task   |
+| `⌘ H`           |   | Toggle highlight       |
+| `⌘ ⇧ 7` | `⌘ ⇧ O` | Toggle ordered list    |
+| `⌘ ⇧ 8` |`⌘ ⇧ U`  | Toggle unordered list  |
+| `⌘ ⇧ .`        |    | Toggle block quote     |
 
-**Folders**
+
+## Folders
 
 | Shortcut | Action                |
 | -------- | --------------------- |
@@ -56,13 +67,21 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 | `F2`     | Rename current folder |
 | `⌘ ⌫`    | Delete current folder |
 
-**Obsidian**
+## Obsidian
 
-| Shortcut         | Action                     |
-| ---------------- | -------------------------- |
-| `⌘ P`            | Command palette            |
-| `F3`<br>`⌃ S`    | Show or hide left sidebar  |
-| `F4`<br>`⌃ ⌘ S`  | Show or hide right sidebar |
-| `⌃ D`<br>`⌃ ⇥`   | Focus next open tab        |
-| `⌃ A`<br>`⌃ ⇧ ⇥` | Focus previous open tab    |
-| `⌘ ⇧ F`          | Search entire vault        |
+| Shortcut | Alias | Action                     |
+| -------- | ----- | -------------------------- |
+| `⌘ P`    |       | Command palette            |
+| `⌘ O`    |       | Simple search              |
+| `⌘ ⇧ F`  |       | Advanced search            |
+| `⌃ S`    | `F3`  | Show or hide left sidebar  |
+| `⌃ ⌘ S`  | `F4`  | Show or hide right sidebar |
+
+### General Navigation
+
+| Shortcut       |  Alias| Action                             |
+| -------------|--- | ---------------------------------- |
+| `⌘ ⌥ ←`        |  | History: Navigate to previous note |
+| `⌘ ⌥ →`         | | History: Navigate to next note     |
+| `⌃ ⇥`   | `⌃ D`| Focus next open tab                |
+|  `⌃ ⇧ ⇥` |`⌃ A`| Focus previous open tab            |

@@ -194,8 +194,15 @@
   "editor:toggle-fold-properties": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": "P"
     }
@@ -209,7 +216,8 @@
     },
     {
       "modifiers": [
-        "Ctrl"
+        "Alt",
+        "Shift"
       ],
       "key": "P"
     }
@@ -301,5 +309,31 @@
       "key": "F"
     }
   ],
-  "global-search:open": []
+  "global-search:open": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "switcher:open": [],
+  "darlal-switcher-plus:switcher-plus:open-symbols-active": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-commands": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": []
 }
