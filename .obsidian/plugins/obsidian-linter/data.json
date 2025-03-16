@@ -159,7 +159,7 @@
       "enabled": true
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": true
+      "enabled": false
     },
     "remove-multiple-spaces": {
       "enabled": true
