@@ -19,6 +19,7 @@
 | `⌘ ⇧ E`  | Toggle edit mode between preview and source mode |
 | `⌃ P`    | Add a property to the note                       |
 | `⌃ ⇧ P`  | Show or hide properties in the note              |
+| `⌘ F`    | Search in current note contents                  |
 
 **Journal**
 
@@ -64,3 +65,4 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 | `F4`<br>`⌃ ⌘ S`  | Show or hide right sidebar |
 | `⌃ D`<br>`⌃ ⇥`   | Focus next open tab        |
 | `⌃ A`<br>`⌃ ⇧ ⇥` | Focus previous open tab    |
+| `⌘ ⇧ F`          | Search entire vault        |
