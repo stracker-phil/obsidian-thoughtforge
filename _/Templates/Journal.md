@@ -10,6 +10,7 @@ _%>
 // Front-matter properties.
 tR += "---\n"
 tR += "focus: \n"
+// Todo: Add more frontmatter properties if you need them.
 tR += "---\n\n"
 
 // Note contents start here.

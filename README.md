@@ -29,6 +29,7 @@ This vault template helps you:
 - [ ] Create your first journal note - hotkey `⌘ ⌥ O` or `Ctrl Alt O`
 
 **Finish onboarding**
+- [ ] Review and customize the templates to match your requirements
 - [ ] Eventually delete this file or replace it with your personal dashboard
 
 ## Core Features
