@@ -1,0 +1,19 @@
+{
+  "mentionTypes": [
+    {
+      "sign": "@",
+      "label": "Person"
+    },
+    {
+      "sign": "!",
+      "label": "Decision"
+    },
+    {
+      "sign": "&",
+      "label": "Reference"
+    }
+  ],
+  "matchStart": true,
+  "maxMatchLength": 15,
+  "stopCharacters": "?!\"'`:;/#+*=&%$§<>"
+}

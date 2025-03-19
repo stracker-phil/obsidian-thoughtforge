@@ -1,0 +1,11 @@
+{
+	"id": "mention-things",
+	"name": "Mention Things",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Define a list of prefixes to trigger an autocomplete suggestion to insert a link.",
+	"author": "Philipp Stracker",
+	"authorUrl": "https://philippstracker.com",
+	"fundingUrl": "https://philippstracker.com/tf",
+	"isDesktopOnly": false
+}
