@@ -13,6 +13,8 @@ I use prefixes to identify file types at a glance:
 - **@** - People notes (`@John Doe.md`)
 - **!** - Decision notes (`!Switch to TypeScript.md`)
 - **+** - Hub/MOC notes (`+Coding Projects.md`)
+
+Recommendations:
 - **How to/How I** - Process notes (`How I Debug React Apps.md`)
 
 ## Folder Structure
