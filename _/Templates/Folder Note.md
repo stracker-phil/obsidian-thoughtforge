@@ -3,6 +3,16 @@ const fullPath = tp.file.path(true);
 const folderPath = fullPath.substring(0, fullPath.lastIndexOf('/'));
 const folderName = folderPath.split('/').pop();
 _%>
+
+<%*
+// Front-matter properties.
+tR += "---\n"
+tR += `aliases: "${ folderName }"\n`
+tR += "---\n\n"
+
+// Note contents start here.
+_%>
+
 # <% folderName %>
 
 %% Describe the purpose of this folder, document specific conventions, how you intend to use it, and so on. This ensures you remember why you created this folder %%
