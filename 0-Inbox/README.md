@@ -1,3 +1,6 @@
+---
+aliases: "Inbox"
+---
 # The Inbox
 
 **Create first, organize later!**

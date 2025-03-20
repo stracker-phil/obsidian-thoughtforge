@@ -1,3 +1,9 @@
+---
+aliases: 
+  - "Personal"
+  - "About Me"
+---
+
 # About Me
 
 This folder contains documentation about my life outside of work and projects. I use it to keep track of important personal information and references I need occasionally.

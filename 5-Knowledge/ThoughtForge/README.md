@@ -1,3 +1,7 @@
+---
+aliases:
+  - ThoughtForge
+---
 # ThoughtForge Documentation
 
 This section is the reference guide for how I've designed my note-taking system. I come back to these notes when I need to refresh my memory about how things work.

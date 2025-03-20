@@ -1,3 +1,7 @@
+---
+aliases: "Work"
+---
+
 # My Job
 
 This folder contains everything related to my professional work. I keep it separate from personal projects and reference materials.

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Quests
+  - Projects
+---
+
 # Quests
 
 > [!info] Getting Started

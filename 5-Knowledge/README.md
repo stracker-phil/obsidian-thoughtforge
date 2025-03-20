@@ -1,3 +1,9 @@
+---
+aliases:
+  - Knowledge
+  - Knowledge Base
+---
+
 # My Knowledge Base
 
 This folder houses my long-term reference materials and documentation that I'll use across multiple projects and time periods.

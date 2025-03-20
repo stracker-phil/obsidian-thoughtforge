@@ -1,3 +1,6 @@
+---
+aliases: "Journal"
+---
 # My Journal
 
 This folder is the living heart of my vault - the primary input stream for ideas and information that flow through my knowledge system.
