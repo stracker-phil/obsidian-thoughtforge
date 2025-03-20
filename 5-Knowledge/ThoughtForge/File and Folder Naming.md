@@ -8,14 +8,15 @@ I follow these naming patterns to keep my vault organized. These aren't rigid ru
 
 ## File Prefixes
 
-I use prefixes to identify file types at a glance:
+I use prefixes to identify file types at a glance. The prefix can be followed by a space, but that's optional.
 
-- **@** - People notes (`@John Doe.md`)
-- **!** - Decision notes (`!Switch to TypeScript.md`)
-- **+** - Hub/MOC notes (`+Coding Projects.md`)
-
-Recommendations:
-- **How to/How I** - Process notes (`How I Debug React Apps.md`)
+| Prefix | Usage             | Sample                            |
+| ------ | ----------------- | --------------------------------- |
+| **@**  | People notes      | `@John Doe.md`                    |
+| **!**  | Decision notes    | `! Switch to TypeScript.md`       |
+| **?**  | Investigation log | `? Credit card payment issues.md` |
+| **$**  | Code snippets     | `$ Redux action thunk.md`         |
+| **+**  | Hub/MOC notes     | `+ Coding Projects.md`            |
 
 ## Folder Structure
 
