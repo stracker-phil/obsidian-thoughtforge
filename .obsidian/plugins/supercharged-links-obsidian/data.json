@@ -21,6 +21,18 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "README.md",
+      "matchCaseSensitive": true,
+      "match": "contains",
+      "uid": "8548-bb3e",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }

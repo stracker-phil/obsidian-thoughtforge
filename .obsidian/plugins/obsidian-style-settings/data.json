@@ -49,5 +49,6 @@
   "minimal-style@@tag-color@@dark": "#F5E0DC",
   "minimal-style@@tag-background@@dark": "#F5E0DC1A",
   "minimal-style@@tag-background-hover@@dark": "#F5E0DC33",
-  "minimal-style@@tag-radius": "14px"
+  "minimal-style@@tag-radius": "14px",
+  "supercharged-links@@8548-bb3e-before": "📁 "
 }
