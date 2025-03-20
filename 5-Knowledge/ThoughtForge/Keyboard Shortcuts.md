@@ -16,6 +16,7 @@
 | Shortcut | Action                                           |
 | -------- | ------------------------------------------------ |
 | `⌘ N`    | New note in Inbox                                |
+| `⌘ ⇧ N`  | Insert template into note                        |
 | `F2`     | Rename current note                              |
 | `F6`     | Move current note to other folder                |
 | `⌘ F12`  | Reveal current file in navigation (left sidebar) |
@@ -36,28 +37,27 @@
 | Shortcut | Action                                        |
 | -------- | --------------------------------------------- |
 | `⌘ ⌥ O`  | Open today's daily note                       |
-| `⌥ ←`    | To previous day (when a Journal note is open) |
-| `⌥ →`   | To next day (when a Journal note is open)     |
+| `⌘ ⌥ ←`  | To previous day (when a Journal note is open) |
+| `⌘ ⌥ →`  | To next day (when a Journal note is open)     |
 
 ## Editor
 
 Editing text is inspired by keyboard shortcuts on GitHub.
 
-| Shortcut       |Alias    | Action                 |
-| --------------|---- | ---------------------- |
-| `⌥ ↑`           |   | Move current line up   |
-| `⌥ ↓`          |    | Move current line down |
-| ``⌘ ⇧ ` ``      |   | Create code block      |
-| ``⌘ ` ``       |    | Toggle inline code     |
-| `⌘ B`          |    | Toggle bold            |
-| `⌘ I`           |   | Toggle italic          |
-| `⌘ K`         |     | Insert link            |
-| `⌘ L`          |    | Toggle checkbox/task   |
-| `⌘ H`           |   | Toggle highlight       |
-| `⌘ ⇧ 7` | `⌘ ⇧ O` | Toggle ordered list    |
-| `⌘ ⇧ 8` |`⌘ ⇧ U`  | Toggle unordered list  |
-| `⌘ ⇧ .`        |    | Toggle block quote     |
-
+| Shortcut | Alias   | Action                 |
+| -------- | ------- | ---------------------- |
+| `⌥ ↑`    |         | Move current line up   |
+| `⌥ ↓`    |         | Move current line down |
+| `⌘ ⇧ ´`  |         | Create code block      |
+| `⌘ ´`    |         | Toggle inline code     |
+| `⌘ B`    |         | Toggle bold            |
+| `⌘ I`    |         | Toggle italic          |
+| `⌘ K`    |         | Insert link            |
+| `⌘ L`    |         | Toggle checkbox/task   |
+| `⌘ H`    |         | Toggle highlight       |
+| `⌘ ⇧ 7`  | `⌘ ⇧ O` | Toggle ordered list    |
+| `⌘ ⇧ 8`  | `⌘ ⇧ U` | Toggle unordered list  |
+| `⌘ ⇧ .`  |         | Toggle block quote     |
 
 ## Folders
 
@@ -79,9 +79,9 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 
 ### General Navigation
 
-| Shortcut       |  Alias| Action                             |
-| -------------|--- | ---------------------------------- |
-| `⌘ ⌥ ←`        |  | History: Navigate to previous note |
-| `⌘ ⌥ →`         | | History: Navigate to next note     |
-| `⌃ ⇥`   | `⌃ D`| Focus next open tab                |
-|  `⌃ ⇧ ⇥` |`⌃ A`| Focus previous open tab            |
+| Shortcut | Alias | Action                             |
+| -------- | ----- | ---------------------------------- |
+| `⌘ ⌥ ←`  |       | History: Navigate to previous note |
+| `⌘ ⌥ →`  |       | History: Navigate to next note     |
+| `⌃ ⇥`    | `⌃ D` | Focus next open tab                |
+| `⌃ ⇧ ⇥`  | `⌃ A` | Focus previous open tab            |

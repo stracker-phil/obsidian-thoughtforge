@@ -124,15 +124,6 @@
       "key": "ArrowDown"
     }
   ],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "editor:focus-top": [
     {
       "modifiers": [
@@ -263,20 +254,18 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "file-explorer:new-file-in-current-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
   "daily-notes:goto-prev": [
     {
       "modifiers": [
         "Ctrl",
         "Mod"
+      ],
+      "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
       ],
       "key": "ArrowLeft"
     }
@@ -286,6 +275,13 @@
       "modifiers": [
         "Ctrl",
         "Mod"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
       ],
       "key": "ArrowRight"
     }
@@ -335,5 +331,15 @@
       "key": "P"
     }
   ],
-  "command-palette:open": []
+  "command-palette:open": [],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ]
 }
