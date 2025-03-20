@@ -18,15 +18,16 @@ This vault template helps you:
 **Personalize your vault**
 - [ ] Review the vault structure to understand the organization
 - [ ] Rename the folder `2-Work` to include your company name (e.g., `2-Acme`)
-- [ ] Optionally rename `4-Quests` to `4-Projects` or `4-Ventures` if you prefer
+- [ ] Open [[3-Personal/README|Personal]] and enter your 
+- [ ] Optionally rename `4-Quests` to `4-Projects` or `4-Ventures` if you prefer a different folder name
 
 **Explore documentation**
 - [ ] Check `5-Knowledge/ThoughtForge` for detailed [documentation](5-Knowledge/ThoughtForge/README).
 	Tip: Some files contain a "Getting Started" section at the top with customization notes
 
 **Start using the vault**
-- [ ] Create your first note - hotkey `⌘ N` or `Ctrl N`
-- [ ] Create your first journal note - hotkey `⌘ ⌥ O` or `Ctrl Alt O`
+- [ ] Create your first note - hotkey `⌘ N` (or `Ctrl N`)
+- [ ] Create your first journal note - hotkey `⌘ ⌥ O` (or `Ctrl Alt O`)
 
 **Finish onboarding**
 - [ ] Review and customize the templates to match your requirements
