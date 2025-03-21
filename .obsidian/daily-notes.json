@@ -1,6 +1,6 @@
 {
   "format": "YYYY-MM-DD",
   "folder": "1-Journal",
-  "template": "_/Templates/Journal",
+  "template": "_/Templates/Daily Note",
   "autorun": true
 }

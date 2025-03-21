@@ -1,4 +1,11 @@
 <%*
+/*
+This template is automatically applied by the "Daily notes" core plugin.
+
+Usage:
+Access the current daily note with the hotkey `⌘ ⌥ O`
+*/
+
 // Prepare template variables.
 const theName = tp.file.title;
 const currentDate = moment(theName, 'YYYY-MM-DD');
