@@ -1,0 +1,1 @@
+%% TODO This note is about myself. I document key identity details here, like passport details, driver license number, social security number, etc. When I need to provide details about myself, this is the first note I open to look for details, instead of searching for documents in my home or bags %%

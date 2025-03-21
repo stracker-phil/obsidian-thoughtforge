@@ -18,7 +18,7 @@ This vault template helps you:
 **Personalize your vault**
 - [ ] Review the vault structure to understand the organization
 - [ ] Rename the folder `2-Work` to include your company name (e.g., `2-Acme`)
-- [ ] Open [[3-Personal/README|Personal]] and enter your 
+- [ ] Open [[@My Full Name]], hit `F2` and rename the file to your name, e.g. `@Philipp Stracker`.
 - [ ] Optionally rename `4-Quests` to `4-Projects` or `4-Ventures` if you prefer a different folder name
 
 **Explore documentation**
