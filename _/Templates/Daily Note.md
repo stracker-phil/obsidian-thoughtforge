@@ -24,6 +24,7 @@ tR += "---\n\n"
 _%>
 
 # <% todayLong %>
+
 ## 🧭 Plan for Today
 
 - [ ] ☕️ _Morning Routine_ (planning & meetings)
