@@ -1,0 +1,121 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "comp:",
+    "icon": "lucide-building-2"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "quest:",
+    "icon": "question-mark-glyph"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "warn:",
+    "icon": "lucide-alert-triangle"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "time:",
+    "icon": "lucide-clock-4"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "pers:",
+    "icon": "lucide-user"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "amt:",
+    "icon": "lucide-banknote"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "pin:",
+    "icon": "lucide-pin"
+  },
+  {
+    "char": "ok:",
+    "color": "76, 175, 80",
+    "icon": "lucide-thumbs-up",
+    "custom": true
+  },
+  {
+    "char": "bad:",
+    "color": "255, 87, 34",
+    "icon": "lucide-thumbs-down",
+    "custom": true
+  },
+  {
+    "char": "info:",
+    "color": "158, 158, 158",
+    "icon": "lucide-info",
+    "custom": true
+  },
+  {
+    "char": "loc:",
+    "color": "158, 158, 158",
+    "icon": "lucide-map-pin",
+    "custom": true
+  },
+  {
+    "char": "url:",
+    "color": "158, 158, 158",
+    "icon": "lucide-link",
+    "custom": true
+  },
+  {
+    "char": "doc:",
+    "color": "158, 158, 158",
+    "icon": "lucide-file-text",
+    "custom": true
+  },
+  {
+    "char": "slack:",
+    "color": "158, 158, 158",
+    "icon": "lucide-slack",
+    "custom": true
+  },
+  {
+    "char": "date:",
+    "color": "158, 158, 158",
+    "icon": "lucide-calendar-days",
+    "custom": true
+  },
+  {
+    "char": "idea:",
+    "color": "158, 158, 158",
+    "icon": "lucide-lightbulb",
+    "custom": true
+  },
+  {
+    "char": "bug:",
+    "color": "158, 158, 158",
+    "icon": "lucide-bug",
+    "custom": true
+  },
+  {
+    "char": "pass:",
+    "color": "158, 158, 158",
+    "icon": "lucide-check-circle-2",
+    "custom": true
+  },
+  {
+    "char": "fail:",
+    "color": "158, 158, 158",
+    "icon": "lucide-x-circle",
+    "custom": true
+  },
+  {
+    "char": "mail:",
+    "color": "158, 158, 158",
+    "icon": "lucide-mail",
+    "custom": true
+  },
+  {
+    "char": "att:",
+    "color": "158, 158, 158",
+    "icon": "lucide-paperclip",
+    "custom": true
+  }
+]
