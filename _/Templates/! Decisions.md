@@ -1,4 +1,13 @@
 <%*
+/*
+I found myself frequently doing the same research every few months. To remember why I made a decision, or what options I did consider in the research, I created this template.
+
+Usage:
+- Create a new file with the topic name (like "Switch to TypeScript.md")
+- Hit `⌘ ⇧ N` to select this template
+
+Note: This template renames the note, and adds the prefix "! "
+*/
 const theName = tp.file.title.replace(/^!/, '')
 const prefix = "! "
 await tp.file.rename(prefix + theName)

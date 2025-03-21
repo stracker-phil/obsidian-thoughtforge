@@ -1,4 +1,13 @@
 <%*
+/*
+This template simply logs my debugging steps. Often, a bug or incorrect behavior tends to repeat after a while or in certain situations. These logs help me to document my discovery journey, and build on past insights when encountering an issue again.
+
+Usage:
+- Create a new file with the topic name (like "Card payment issues.md")
+- Hit `⌘ ⇧ N` to select this template
+
+Note: This template renames the note, and adds the prefix "? "
+*/
 const theName = tp.file.title.replace(/^\?\s*/, '')
 const prefix = "? "
 await tp.file.rename(prefix + theName)

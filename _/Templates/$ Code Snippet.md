@@ -1,6 +1,17 @@
 <%*
+/*
+I use this template to document interesting or noteworthy code snippets that I want to remember. The main goal is to build a collection of "well written code" in my vault.
+
+Usage:
+- Create a new file with the topic name (like "Card payment issues.md")
+- Hit `⌘ ⇧ N` to select this template
+
+Note: This template renames the note, and adds the prefix "$ "
+*/
+*/
+
 const theName = tp.file.title.replace(/^\$/, '')
-const prefix = "$"
+const prefix = "$ "
 await tp.file.rename(prefix + theName)
 _%>
 

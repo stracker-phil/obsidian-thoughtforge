@@ -1,4 +1,11 @@
 <%*
+/*
+This template is used for folder notes, i.e "README.md" files.
+
+Usage:
+Right-click a folder, open "Folder note commands" and select "Create markdown folder note"
+*/
+
 const fullPath = tp.file.path(true);
 const folderPath = fullPath.substring(0, fullPath.lastIndexOf('/'));
 const folderName = folderPath.split('/').pop();
