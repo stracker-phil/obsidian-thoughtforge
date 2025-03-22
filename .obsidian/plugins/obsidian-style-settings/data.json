@@ -64,5 +64,7 @@
   "minimal-style@@table-center": false,
   "minimal-style@@table-nowrap": false,
   "minimal-style@@row-hover": false,
-  "minimal-style@@active-line-on": false
+  "minimal-style@@active-line-on": false,
+  "supercharged-links@@96f5-3b6e-before": "🎨 ",
+  "supercharged-links@@0df6-213e-before": "🎨 "
 }

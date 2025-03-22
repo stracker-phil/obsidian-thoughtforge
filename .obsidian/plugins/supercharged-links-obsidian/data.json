@@ -33,6 +33,30 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": ".png",
+      "matchCaseSensitive": false,
+      "match": "endswith",
+      "uid": "96f5-3b6e",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": ".jpg",
+      "matchCaseSensitive": false,
+      "match": "endswith",
+      "uid": "0df6-213e",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }
