@@ -1,6 +1,6 @@
 # Important Keyboard Shortcuts
 
-> [!info]- Getting Started
+> [!info] Getting Started
 > Review the keyboard shortcuts below. If you want to change, remove or add shortcuts, you can do this on the Obsidian Settings page for **Hotkeys**
 
 > [!info]- Mapping for Windows and Linux

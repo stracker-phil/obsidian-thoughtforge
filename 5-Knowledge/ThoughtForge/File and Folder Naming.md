@@ -1,6 +1,6 @@
 # How I Name Files and Folders
 
-> [!info]- Getting Started
+> [!info] Getting Started
 > Customize these conventions to match your preference, then stick to them.
 > Keep in mind that conventions can change, and you can come back and modify this documentation at any time.
 

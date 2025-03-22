@@ -28,7 +28,7 @@ After consideration, I'm sticking with a traditional folder structure rather tha
 	- My vault needs to evolve with me, and hierarchies can "lock me in" to early decisions
 
 4. **Simplicity**
-	- Getting started fast with little friction is important to build and establish good habits
+	- Starting fast with little friction is important to build and establish good habits
 	- Adding hierarchical complexity raises the learning curve and increases chances of abandonment
 	- Quote: _"The best knowledge system is the one I actually use daily"_
 
