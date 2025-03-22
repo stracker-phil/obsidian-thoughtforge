@@ -24,8 +24,10 @@ This vault template helps you:
 ## Installation
 
 1. **Clone this repo** and extract it
-2. In Obsidian locate the "Manage Vaults..." dialog. Use the "**Open folder as vault**" ![[getting started - open vault.png]]
-3. Continue with the Getting Started guide inside Obsidian 🎉
+2. In Obsidian locate the "Manage Vaults..." dialog. Use the "**Open folder as vault**" <img src="getting started - open vault.png" width="600" />
+3. Continue with the Getting Started guide **inside Obsidian** 🎉
+
+---
 
 ## Getting Started
 
