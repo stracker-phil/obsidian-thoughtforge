@@ -8,7 +8,7 @@ Usage:
 
 Note: This template renames the note, and adds the prefix "? "
 */
-const theName = tp.file.title.replace(/^\?\s*/, '')
+const theName = tp.file.title.replace(/^\W+/, '')
 const prefix = "? "
 await tp.file.rename(prefix + theName)
 _%>
@@ -17,7 +17,7 @@ _%>
 
 ## Context
 
-%% Which project, feature, environment, website or configuration is affected? %%
+%% Which project, feature, environment, website or configuration is affected? %%<% tp.file.cursor(1) %>
 
 ## Symptoms
 

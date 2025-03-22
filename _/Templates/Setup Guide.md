@@ -6,12 +6,20 @@ Usage:
 - Create a new file with the project name (like "Customer Site.md")
 - Hit `⌘ ⇧ N` to select this template
 */
+
+const theName = tp.file.title.replace(/^\W+/, '')
+
+const projectName = await tp.system.prompt(
+  'Which project or environment did you set up?',
+  theName
+);
 _%>
-# {{project}} Setup
+
+# <% projectName %> Setup
 
 ## Source
 
-- %% GitHub Repo, Confluence pages, Slack conversations, ... %%
+- %% GitHub Repo, Confluence pages, Slack conversations, ... %%<% tp.file.cursor(1) %>
 
 ## Setup Steps
 

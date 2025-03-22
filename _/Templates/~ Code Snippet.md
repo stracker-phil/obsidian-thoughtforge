@@ -8,18 +8,21 @@ Usage:
 
 Note: This template renames the note, and adds the prefix "~ "
 */
-*/
 
-const theName = tp.file.title.replace(/^\~/, '')
+const theName = tp.file.title.replace(/^\W+/, '')
 const prefix = "~ "
-await tp.file.rename(prefix + theName)
-_%>
 
-<%*
+let theLanguage = await tp.system.prompt(
+  'Which programming language?',
+  'js'
+)
+
+await tp.file.rename(prefix + theName)
+
 // Front-matter properties.
 tR += "---\n"
+tR += `language: ${ theLanguage }\n`
 tR += "purpose: \n"
-tR += "language: \n"
 tR += "---\n\n"
 
 // Note contents start here.
@@ -27,8 +30,8 @@ _%>
 
 # <% theName %>
 
-```
-{{code}}
+```<% theLanguage %>
+<% tp.file.cursor(1) %>
 ```
 
 ## Notes

@@ -11,9 +11,7 @@ const theName = tp.file.title;
 const currentDate = moment(theName, 'YYYY-MM-DD');
 const today = currentDate.format("YYYY-MM-DD");
 const todayLong = currentDate.format("dddd, DD MMM YYYY");
-_%>
 
-<%*
 // Front-matter properties.
 tR += "---\n"
 tR += "focus: \n"

@@ -6,7 +6,8 @@ Usage:
 Use `⌘ ⌥ O` to open the current Daily note, place the cursor to the relevant place (usually at the end of the note), then hit `⌘ ⇧ N` (or "open insert template modal" command) and select this template.
 */
 _%>
-### Meeting: <%* tp.file.cursor() %>
+
+### Meeting: <% tp.file.cursor(1) %>
 Last meeting: %% Link to previous Journal entry / delete this line %%
 Key attendees:
 

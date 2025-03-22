@@ -8,16 +8,21 @@ Usage:
 
 Note: This template renames the note, and adds the prefix "! "
 */
-const theName = tp.file.title.replace(/^!/, '')
+const theName = tp.file.title.replace(/^\W+/, '')
 const prefix = "! "
-await tp.file.rename(prefix + theName)
+
+let theDecision = await tp.system.prompt(
+  'Which decision did you make?',
+  theName
+)
+await tp.file.rename(prefix + theDecision)
 _%>
 
-# Decision: <% theName %>
+# Decision: <% theDecision %>
 
 ## Context
 
-%% Explain the context, environment, project, team, feature, etc %%
+%% Explain the context, environment, project, team, feature, etc %%<% tp.file.cursor(1) %>
 
 ## Problem Statement
 
