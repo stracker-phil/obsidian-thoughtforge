@@ -71,8 +71,10 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 
 | Shortcut | Alias | Action                     |
 | -------- | ----- | -------------------------- |
+| `⌘ 1`    |       | Focus on File List         |
+| `⌘ 2`    |       | Focus on Search Panel      |
 | `⌘ P`    |       | Command palette            |
-| `⌘ O`    |       | Simple search              |
+| `⌘ O`    |       | Open file                  |
 | `⌘ ⇧ F`  |       | Advanced search            |
 | `⌃ S`    | `F3`  | Show or hide left sidebar  |
 | `⌃ ⌘ S`  | `F4`  | Show or hide right sidebar |
