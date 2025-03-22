@@ -23,7 +23,7 @@ This vault template helps you:
 
 **Explore documentation**
 - [ ] Check `5-Knowledge/ThoughtForge` for detailed [documentation](5-Knowledge/ThoughtForge/README).
-	Tip: Some files contain a "Getting Started" section at the top with customization notes
+	Tip: Some files contain a "[Getting Started](obsidian://search?query="Getting%20Started"%20-path:"/README.md")" section at the top with customization notes
 
 **Start using the vault**
 - [ ] Create your first note - hotkey `⌘ N` (or `Ctrl N`)
