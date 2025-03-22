@@ -16,7 +16,6 @@ I use prefixes to identify file types at a glance. The prefix can be followed by
 | **!**  | Decision notes    | `! Switch to TypeScript.md`       |
 | **?**  | Investigation log | `? Credit card payment issues.md` |
 | **$**  | Code snippets     | `$ Redux action thunk.md`         |
-| **+**  | Hub/MOC notes     | `+ Coding Projects.md`            |
 
 ## Folder Structure
 
