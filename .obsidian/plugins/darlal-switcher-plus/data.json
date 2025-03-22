@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "onOpenPreferNewTab": false,
   "alwaysNewTabForSymbols": false,
-  "useActiveTabForSymbolsOnMobile": false,
+  "useActiveTabForSymbolsOnMobile": true,
   "symbolsInLineOrder": true,
   "editorListCommand": "edt ",
   "symbolListCommand": "$ ",
@@ -35,11 +35,11 @@
     "pdf"
   ],
   "enabledSymbolTypes": {
-    "1": true,
-    "2": true,
-    "4": true,
+    "1": false,
+    "2": false,
+    "4": false,
     "8": true,
-    "16": true
+    "16": false
   },
   "selectNearestHeading": true,
   "excludeFolders": [],
@@ -170,28 +170,28 @@
         "mode": 4,
         "label": "file cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "canvas-node-text": {
         "id": "canvas-node-text",
         "mode": 4,
         "label": "text cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "canvas-node-link": {
         "id": "canvas-node-link",
         "mode": 4,
         "label": "link cards",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "canvas-node-group": {
         "id": "canvas-node-group",
         "mode": 4,
         "label": "groups",
         "isActive": false,
-        "isAvailable": true
+        "isAvailable": false
       },
       "backlink": {
         "id": "backlink",
