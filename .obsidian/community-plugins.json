@@ -2,8 +2,6 @@
   "folder-notes",
   "calendar",
   "obsidian-linter",
-  "omnisearch",
-  "text-extractor",
   "obsidian-paste-image-rename",
   "darlal-switcher-plus",
   "templater-obsidian",
@@ -12,6 +10,5 @@
   "obsidian-minimal-settings",
   "callout-manager",
   "obsidian-list-callouts",
-  "dataview",
   "mention-things"
 ]
