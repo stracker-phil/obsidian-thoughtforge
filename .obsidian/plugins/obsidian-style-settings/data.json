@@ -50,5 +50,19 @@
   "minimal-style@@tag-background@@dark": "#F5E0DC1A",
   "minimal-style@@tag-background-hover@@dark": "#F5E0DC33",
   "minimal-style@@tag-radius": "14px",
-  "supercharged-links@@8548-bb3e-before": "📁 "
+  "supercharged-links@@8548-bb3e-before": "📁 ",
+  "list-callouts@@lc-bg-opacity-light": 0,
+  "list-callouts@@lc-bg-opacity-dark": 0,
+  "minimal-style@@table-column-min-width": "3ch",
+  "minimal-style@@maximize-tables-off": "maximize-tables",
+  "minimal-style@@row-lines": false,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": false,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-tabular": true,
+  "minimal-style@@table-numbers": false,
+  "minimal-style@@table-center": false,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@row-hover": false,
+  "minimal-style@@active-line-on": false
 }
