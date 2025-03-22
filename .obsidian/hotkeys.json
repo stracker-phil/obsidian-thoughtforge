@@ -364,5 +364,29 @@
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-3": [],
-  "workspace:goto-tab-2": []
+  "workspace:goto-tab-2": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-split": []
 }
