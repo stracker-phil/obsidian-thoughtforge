@@ -1,5 +1,7 @@
 ---
-aliases: "Journal"
+aliases:
+  - Journal
+  - Daily Notes
 ---
 # My Journal
 
