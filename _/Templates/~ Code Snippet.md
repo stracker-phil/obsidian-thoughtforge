@@ -6,12 +6,12 @@ Usage:
 - Create a new file with the topic name (like "Card payment issues.md")
 - Hit `⌘ ⇧ N` to select this template
 
-Note: This template renames the note, and adds the prefix "$ "
+Note: This template renames the note, and adds the prefix "~ "
 */
 */
 
-const theName = tp.file.title.replace(/^\$/, '')
-const prefix = "$ "
+const theName = tp.file.title.replace(/^\~/, '')
+const prefix = "~ "
 await tp.file.rename(prefix + theName)
 _%>
 
