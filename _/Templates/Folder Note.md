@@ -10,6 +10,11 @@ const fullPath = tp.file.path(true);
 const folderPath = fullPath.substring(0, fullPath.lastIndexOf('/'));
 const folderName = folderPath.split('/').pop();
 
+// Try to rename the file to README.md.
+try {
+  await tp.file.rename('README')
+} catch (e) { /* ignored */ }
+
 // Front-matter properties.
 tR += "---\n"
 tR += `aliases: "${ folderName }"\n`
@@ -20,9 +25,9 @@ _%>
 
 # <% folderName %>
 
-%% Describe the purpose of this folder, document specific conventions, how you intend to use it, and so on. This ensures you remember why you created this folder %%<% tp.file.cursor(1) %>
+%% Describe the purpose of this folder, document specific conventions, how you intend to use it, and so on. This ensures you remember why you created this folder %%
 
-This folder contains {{brief_description}}.
+This folder contains <% tp.file.cursor(1) %>.
 
 ## Key Content
 
