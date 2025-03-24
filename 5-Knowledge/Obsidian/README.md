@@ -10,6 +10,7 @@ This section is closely related to the [[5-Knowledge/ThoughtForge/README|Thought
 
 ## Key Content
 
+- [[How to Create a Custom Obsidian Plugin]]
 - [[How to Embed Search Queries]]
 
 ### From the ThoughtForge Documentation

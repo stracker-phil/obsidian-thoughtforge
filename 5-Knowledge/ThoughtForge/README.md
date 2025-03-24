@@ -1,7 +1,7 @@
 ---
-aliases:
-  - ThoughtForge
+aliases: [ThoughtForge]
 ---
+
 # ThoughtForge Documentation
 
 This section is the reference guide for how I've designed my note-taking system. I come back to these notes when I need to refresh my memory about how things work.
@@ -10,6 +10,7 @@ This section is the reference guide for how I've designed my note-taking system.
 
 - [[Core Principles of This Vault]]
 - [[Keyboard Shortcuts]]
+- [[Tag Usage Strategy]]
 - [[File and Folder Naming]]
 - [[Folder Notes]]
 
