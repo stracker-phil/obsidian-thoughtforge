@@ -8,6 +8,8 @@ A short documentation and reasoning for the plugins I use in this vault. I need 
 
 Used to parse the template notes, allowing me to use JS logic to render the initial note content. Also provides some functions like prompting for an input value.
 
+I maintain a list of useful practices in the [[Templater Tricks]] note.
+
 ### Calendar
 
 [[1-Journal/README|Daily Notes]] are the backbone of my vault, and the Calendar sidebar is a vital addition to navigate those notes.
