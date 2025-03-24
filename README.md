@@ -12,6 +12,7 @@ This vault template helps you:
 - Capture code snippets, project decisions, and technical documentation
 - Separate work and personal projects effectively
 - Maintain a developer-friendly environment with GitHub-like conventions
+- Extend Obsidian with custom plugins tailored to your workflow
 
 ## Benefits of This System
 
@@ -20,6 +21,7 @@ This vault template helps you:
 - **Developer-focused** - Keyboard shortcuts, file prefixes, templates and folder structure designed for code-minded people
 - **Self-documenting** - Built-in documentation with real usage examples
 - **Keyboard-optimized** - Efficient navigation and editing with custom shortcuts
+- **Extensible** - Resources for creating custom plugins to enhance your workflow
 
 ## Installation
 
@@ -51,7 +53,12 @@ This vault template helps you:
 - [ ] Create your first journal note - hotkey `⌘ ⌥ O` (or `Ctrl Alt O`)
 - [ ] Try the templates by creating a note and using `⌘ ⇧ N` (or `Ctrl Shift N`)
 
-### 4. Finish Onboarding
+### 4. For Developers: Extend Your Vault
+
+- [ ] Check out [[5-Knowledge/Obsidian/How to Create a Custom Obsidian Plugin|how to create custom Obsidian plugins]] to extend your vault with personalized functionality
+- [ ] Fork the [plugin template repository](https://github.com/stracker-phil/obsidian-plugin-template) to quickly get started with plugin development
+
+### 5. Finish Onboarding
 
 - [ ] Review and customize the templates in `_/Templates` to match your requirements
 - [ ] Eventually delete this file or replace it with your personal dashboard
@@ -64,6 +71,18 @@ ThoughtForge is built on principles documented in [[5-Knowledge/ThoughtForge/Cor
 - Create first, organize later with the Inbox
 - Focus on simplicity with fewer, well-used features
 - Build connections between notes rather than perfect hierarchies
+
+## Developer-Specific Resources
+
+ThoughtForge includes resources specifically designed for developers:
+
+- **Code snippet templates** - Capture and organize reusable code with the `~ Code Snippet.md` template
+- **Decision documentation** - Track architectural and technical decisions with the `! Decision.md` template
+- **Investigation logs** - Document debugging sessions and problem-solving with the `? Investigation.md` template
+- **Plugin development guide** - Create custom Obsidian plugins using our [[5-Knowledge/Obsidian/How to Create a Custom Obsidian Plugin|developer guide]] and template repository
+- **GitHub-like workflows** - familiar keyboard shortcuts and conventions that align with developer tools
+
+Unlike general productivity templates, ThoughtForge is built by developers, for developers, with an emphasis on the unique needs of software engineering workflows.
 
 ## Feedback and Contributions
 
