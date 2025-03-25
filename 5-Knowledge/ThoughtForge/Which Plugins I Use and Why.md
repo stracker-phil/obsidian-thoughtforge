@@ -44,6 +44,10 @@ Helps me to maintain a clean, minimalistic Obsidian UI. This plugin allows me to
 
 Opens a modal whenever I copy-paste an image to the vault, allowing me to rename that image. I've configured to use a date-prefix as default name, to follow my [[File Types and Media|media-naming conventions]].
 
+### Rainbow-Colored Sidebar
+
+The plugin gives each top-level folder in the sidebar a distinct color. This adds an additional visual cue helping me to quickly see which notes I'm seeing in the sidebar
+
 ## Content Enrichment
 
 ### Callout Manager
