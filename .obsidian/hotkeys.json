@@ -388,5 +388,21 @@
       "key": "Enter"
     }
   ],
-  "editor:open-link-in-new-split": []
+  "editor:open-link-in-new-split": [],
+  "bookmarks:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
 }
