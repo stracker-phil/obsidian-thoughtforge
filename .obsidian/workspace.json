@@ -97,7 +97,7 @@
       {
         "id": "e62b40273493c6ee",
         "type": "tabs",
-        "dimension": 32.267168391345244,
+        "dimension": 35,
         "children": [
           {
             "id": "a6fbb1396cfda6e3",
@@ -114,7 +114,7 @@
       {
         "id": "7838c30f65d83437",
         "type": "tabs",
-        "dimension": 67.73283160865475,
+        "dimension": 65,
         "children": [
           {
             "id": "233d825cc58dfe20",
@@ -124,6 +124,7 @@
               "state": {
                 "file": "README.md",
                 "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -135,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280
   },
   "left-ribbon": {
     "hiddenItems": {
