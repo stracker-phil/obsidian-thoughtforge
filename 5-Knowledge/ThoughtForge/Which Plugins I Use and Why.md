@@ -14,7 +14,7 @@ I maintain a list of useful practices in the [[Templater Tricks]] note.
 
 ### Folder Notes
 
-Makes the README.md files available as folder-notes, which is [[Folder Notes|a core principle]] of this vault.
+Makes the `README.md` files available as folder-notes, which is [[Folder Notes|a core principle]] of this vault.
 
 ### Linter
 
@@ -67,6 +67,10 @@ Opens a modal whenever I copy-paste an image to the vault, allowing me to rename
 ### Image Toolkit
 
 In many cases I want to open a screenshot in a lightbox without distractions, or zoom-in to see more details. This plugin adds those basic features that are lacking in Obsidian.
+
+### Virtual Linker
+
+Links terms in my notes that match the title or alias of an existing note. These links are virtual, and do not appear in the note's Markdown source or in Obsidian's graph view; I use those virtual links (a) as a glossary, and (b) help me identify potential cross-links that I could add to the note.
 
 ### Rainbow-Colored Sidebar
 
