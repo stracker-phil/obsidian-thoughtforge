@@ -72,6 +72,10 @@ In many cases I want to open a screenshot in a lightbox without distractions, or
 
 The plugin gives each top-level folder in the sidebar a distinct color. This adds an additional visual cue helping me to quickly see which notes I'm seeing in the sidebar.
 
+### Ninja Cursor
+
+Animates the cursor movement, which makes it easier for me to follow the cursor movement. This is clearly a very personal and optional plugin.
+
 ---
 
 ## Removed Tools
