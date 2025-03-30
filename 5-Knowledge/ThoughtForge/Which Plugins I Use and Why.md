@@ -78,9 +78,13 @@ Animates the cursor movement, which makes it easier for me to follow the cursor 
 
 ---
 
-## Removed Tools
+## Considered
 
 This section describes tools I used in the past and why I have removed them.
+
+### Colored Tags
+
+A simple plugin that gives each tag a different color. In case I would use tags more extensively, I would re-install this plugin, but my current [[Tag Usage Strategy]] does not justify this addition.
 
 ### Omnisearch and Text Extractor
 
