@@ -95,23 +95,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e62b40273493c6ee",
-        "type": "tabs",
-        "dimension": 35,
-        "children": [
-          {
-            "id": "a6fbb1396cfda6e3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
-      },
-      {
         "id": "7838c30f65d83437",
         "type": "tabs",
         "dimension": 65,
@@ -123,13 +106,29 @@
               "type": "outline",
               "state": {
                 "file": "README.md",
-                "followCursor": false,
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "34ca0061f04bdb2e",
+        "type": "tabs",
+        "dimension": 35,
+        "children": [
+          {
+            "id": "a6fbb1396cfda6e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}, 
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -151,5 +150,6 @@
   },
   "active": "5adab23fc9d43fbb",
   "lastOpenFiles": [
+    "ROADMAP.md",
   ]
 }
