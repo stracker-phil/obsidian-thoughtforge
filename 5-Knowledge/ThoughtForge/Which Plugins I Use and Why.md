@@ -4,15 +4,13 @@ A short documentation and reasoning for the plugins I use in this vault. I need 
 
 ## Core Functionality
 
+> The following plugins are required to run this vault and should not be disabled.
+
 ### Templater
 
 Used to parse the template notes, allowing me to use JS logic to render the initial note content. Also provides some functions like prompting for an input value.
 
 I maintain a list of useful practices in the [[Templater Tricks]] note.
-
-### Calendar
-
-[[1-Journal/README|Daily Notes]] are the backbone of my vault, and the Calendar sidebar is a vital addition to navigate those notes.
 
 ### Folder Notes
 
@@ -22,37 +20,17 @@ Makes the README.md files available as folder-notes, which is [[Folder Notes|a c
 
 This plugin enforces a consistent markdown format in my files. This ensures the notes are also looking well in other markdown editors and follow my personal formatting rules.
 
+### Calendar
+
+[[1-Journal/README|Daily Notes]] are the backbone of my vault, and the Calendar sidebar is a vital addition to navigate those notes.
+
 ### QuickSwitcher++
 
 Drop-in enhancement for the default "Quick Switcher" (which just opens files). I heavily use the Symbol Search, which is mapped to `⌘ R` to navigate inside a note.
 
-## Convenience
+## Core Appearance
 
-### Mention Things
-
-A quicker way to insert cross-links between certain note types. I extensively use the `@`-notation to mention people in all kind of notes.
-
-### Style Settings
-
-Helps me to maintain a clean, minimalistic Obsidian UI. This plugin allows me to customize the following items:
-
-- **Minimal**-theme
-- **Supercharged Links**: Style the links with custom icons or colors.
-- **List Callouts**: Customize global list-item appearance
-
-### Paste Image Rename
-
-Opens a modal whenever I copy-paste an image to the vault, allowing me to rename that image. I've configured to use a date-prefix as default name, to follow my [[File Types and Media|media-naming conventions]].
-
-### Image Toolkit
-
-In many cases I want to open a screenshot in a lightbox without distractions, or zoom-in to see more details. This plugin adds those basic features that are lacking in Obsidian.
-
-### Rainbow-Colored Sidebar
-
-The plugin gives each top-level folder in the sidebar a distinct color. This adds an additional visual cue helping me to quickly see which notes I'm seeing in the sidebar
-
-## Content Enrichment
+> Plugins that will impact the visual appearance of the vault or notes when they are deactivated. However, they are not required to use the ThoughtForge system.
 
 ### Callout Manager
 
@@ -65,6 +43,34 @@ A nice addition to replace a list-item prefix with an icon. I pay attention to u
 ### Supercharged Links
 
 Helpful to customize note links application wide. This allows me to quickly recognize the type of a certain link. This plugin only adds HTML attributes to links, depending on some rules. The actual styling is done by the **Style Settings** plugin.
+
+### Style Settings
+
+Helps me to maintain a clean, minimalistic Obsidian UI. This plugin allows me to customize the following items:
+
+- **Minimal**-theme
+- **Supercharged Links**: Style the links with custom icons or colors.
+- **List Callouts**: Customize global list-item appearance
+
+## Convenience
+
+> Plugins that are fully optional, yet helpful for my workflow.
+
+### Mention Things
+
+A quicker way to insert cross-links between certain note types. I extensively use the `@`-notation to mention people in all kind of notes.
+
+### Paste Image Rename
+
+Opens a modal whenever I copy-paste an image to the vault, allowing me to rename that image. I've configured to use a date-prefix as default name, to follow my [[File Types and Media|media-naming conventions]].
+
+### Image Toolkit
+
+In many cases I want to open a screenshot in a lightbox without distractions, or zoom-in to see more details. This plugin adds those basic features that are lacking in Obsidian.
+
+### Rainbow-Colored Sidebar
+
+The plugin gives each top-level folder in the sidebar a distinct color. This adds an additional visual cue helping me to quickly see which notes I'm seeing in the sidebar.
 
 ---
 
