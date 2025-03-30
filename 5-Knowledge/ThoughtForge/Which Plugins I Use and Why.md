@@ -84,7 +84,7 @@ Animates the cursor movement, which makes it easier for me to follow the cursor 
 
 ## Considered
 
-This section describes tools I used in the past and why I have removed them.
+This section describes great tools I used in the past but consciously decided to remove them from this vault in favor of more simplicity and focus on pure Markdown.
 
 ### Colored Tags
 
@@ -102,8 +102,14 @@ Mainly used the JS API to create scripts. Since I've stopped using CustomJS, thi
 
 I might use it in case I want to create more dynamic file lists inside my folder notes.
 
+> [!warning] Use with care
+> This plugin can create a big discrepancy between data in the Markdown file and the rendered content.
+
 ### CustomJS
 
 Allowed me to write and execute JS code inside a code-block in my notes. This allowed me to add powerful features to Obsidian, but it polluted my notes with increasingly complex JS code, which turned out to be a bad practice.
 
 Instead of using this plugin, I will write a custom Obsidian plugin when I need certain features. This plugin encourages mixing note-content with custom app-logic, which I want to avoid.
+
+> [!warning] Use with care
+> This plugin can create a big discrepancy between data in the Markdown file and the rendered content.
