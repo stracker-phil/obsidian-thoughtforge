@@ -106,6 +106,12 @@ Provides an advanced REST API for controlling and interacting with the vault. Th
 
 Excellent RAG solution that vectorizes the vault locally and provides an API for AI tool integration. It comes with a 1-click CustomGPT setup, making it easy to connect the Vault to an OpenAI Plus account.
 
+### MCP Tools
+
+Allows me to use Claude for Desktop (or other AI clients like Clinde, Typing mind, etc.) to search and manage my vault! This plugin requires **Smart Connections** for semantic search capabilities, and **Local REST API** to function.
+
+🤖 Automate Obsidian from local computer using AI
+
 ---
 
 ## Optional
