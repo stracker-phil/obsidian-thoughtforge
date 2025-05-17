@@ -4,3 +4,4 @@
 # Do not commit note vectors, only consider the smart-env configuration file.
 /.smart-env/*
 !/.smart-env/smart_env.json
+/.obsidian/plugins/obsidian-local-rest-api/data.json

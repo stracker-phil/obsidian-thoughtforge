@@ -94,7 +94,13 @@ Quickly hide most UI elements (side bars, header) with a keyboard shortcut. This
 > - `Pro Zen` - Almost identical, but has downside that frontmatter props cannot be edited in Zen mode. Also, Zen-mode is a complete own UI state (I cannot show a sidebar while in Zen mode; "Zen Mode" is more "native" here).
 > - `Typezen` - seems to only change the opacity of sidebars, so in split-screen the text does not occupy the full window width.
 
-## AI Integrations
+## AI and Automation
+
+### Local REST API
+
+Provides an advanced REST API for controlling and interacting with the vault. This is the best solution I found to automate or script Obsidian processes.
+
+🤖 Automate Obsidian from local computer
 
 ### Smart Connections
 

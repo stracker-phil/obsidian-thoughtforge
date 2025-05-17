@@ -17,5 +17,6 @@
   "virtual-linker",
   "zenmode",
   "obsidian-git",
-  "smart-connections"
+  "smart-connections",
+  "obsidian-local-rest-api"
 ]
