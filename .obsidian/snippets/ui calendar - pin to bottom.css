@@ -1,0 +1,36 @@
+/**
+ * Aligns the calendar widget at the bottom of the screen.
+ */
+
+:root {
+	--status-bar-height: 32px;
+	--calendar-height: 320px;
+}
+
+.mod-sidedock.mod-right-split .workspace-tabs:last-of-type {
+	max-height: var(--calendar-height);
+	min-height: var(--calendar-height);
+	flex: 0 0 var(--calendar-height);
+	
+	.workspace-tab-header-container {
+		display: none;
+	}
+	
+	.workspace-leaf-content[data-type=calendar] {
+		.view-header {
+			display: none;
+		}
+	
+		.view-content {
+			display: flex;
+			flex-direction: column;
+			justify-content: end;
+		}
+		
+		#calendar-container {
+			padding-bottom: var(--status-bar-height);
+		}
+
+	}
+
+}

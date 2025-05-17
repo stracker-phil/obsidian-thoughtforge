@@ -2,5 +2,12 @@
   "showRibbon": false,
   "translucency": false,
   "cssTheme": "Minimal",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "ui-obsidian-style",
+    "ui-calendar-plugin",
+    "ui calendar - pin to bottom",
+    "ui obsidian - sidebar style"
+  ]
 }

@@ -1,0 +1,27 @@
+/**
+ * Adds the same color accent from the left sidebar also 
+ * to the right sidebar.
+ */
+
+body.is-hidden-frameless.theme-light:not(.minimal-light-tonal):not(.colorful-frame):not(.minimal-light-white) {
+
+	.mod-sidedock.mod-right-split {
+		--background-primary: var(--background-secondary);
+		--background-secondary: var(--background-secondary);
+
+		.workspace-tabs.mod-top,
+		.sidebar-toggle-button.mod-right {
+			--titlebar-background-focused: var(--background-secondary);
+		}
+
+	}
+	
+	.workspace-tabs.mod-top {
+		--titlebar-background: var(--background-secondary);
+	}
+
+	.workspace-tab-header-container {
+		--tab-container-background: var(--background-secondary);
+	}
+
+}
