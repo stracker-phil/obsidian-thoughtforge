@@ -422,5 +422,14 @@
       ],
       "key": "4"
     }
+  ],
+  "templater-obsidian:_/Templates/Hotkeys/Insert Callout.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }
