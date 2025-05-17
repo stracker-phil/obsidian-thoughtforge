@@ -27,10 +27,10 @@
 
 ### Navigate in Current Note
 
-| Shortcut | Action                          |
-| -------- | ------------------------------- |
-| `⌘ R`    | Outline of current note         |
-| `⌘ F`    | Search in current note contents |
+| Shortcut | Action                                          |
+| -------- | ----------------------------------------------- |
+| `⌘ R`    | Outline of current note (Alternative UX: `⌘ 4`) |
+| `⌘ F`    | Search in current note contents                 |
 
 ## Journal
 
@@ -69,19 +69,18 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 
 ## Obsidian
 
-| Shortcut  | Alias | Action                     |
-| --------- | ----- | -------------------------- |
-| `⌘ 1`     |       | Open the File List         |
-| `⌘ 2`     |       | Open Search Panel          |
-| `⌘ 3`     |       | Show Bookmarks Panel       |
-| `⌘ 4`     |       | Focus on note-outline      |
-| `⌘ P`     |       | Command palette            |
-| `⌘ O`     |       | Open file                  |
-| `⌘ ⇧ F`   |       | Advanced search            |
-| `⌘ D`     |       | Bookmark the current note  |
-| `⌃ S`     | `F3`  | Show or hide left sidebar  |
-| `⌃ ⌘ S`   | `F4`  | Show or hide right sidebar |
-| `⌃ ⌥ ⌘ F` |       | Toggle Zen mode            |
+| Shortcut  | Alias   | Action                                        |
+| --------- | ------- | --------------------------------------------- |
+| `⌘ 1`     |         | Open the File List                            |
+| `⌘ 2`     | `⌘ ⇧ F` | Open Search Panel                             |
+| `⌘ 3`     |         | Show Bookmarks Panel                          |
+| `⌘ 4`     |         | Focus on note-outline (Alternative UX: `⌘ R`) |
+| `⌘ P`     |         | Command palette                               |
+| `⌘ O`     |         | Open file                                     |
+| `⌘ D`     |         | Bookmark the current note                     |
+| `⌃ S`     | `F3`    | Show or hide left sidebar                     |
+| `⌃ ⌘ S`   | `F4`    | Show or hide right sidebar                    |
+| `⌃ ⌥ ⌘ F` |         | Toggle Zen mode                               |
 
 ### General Navigation
 
