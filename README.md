@@ -56,6 +56,11 @@ Some optional plugins are included with a recommended config file but disabled i
 - [ ] Enable the plugin "Git"
 	- [ ] Navigate to the Git settings: Adjust the author name and email (quite far down)
 
+**Use Obsidian Sync to use the Vault on multiple devices** (paid)
+
+- [ ] Enable the core plugin "Sync"
+	- [ ] Navigate to the Sync settings: Connect your Obsidian account
+
 ### 2. Explore Key Features
 
 - [ ] Learn about [[5-Knowledge/ThoughtForge/File and Folder Naming|file naming conventions]] (prefixes like @, !, ?, ~)
