@@ -414,5 +414,13 @@
       ],
       "key": "F"
     }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
   ]
 }

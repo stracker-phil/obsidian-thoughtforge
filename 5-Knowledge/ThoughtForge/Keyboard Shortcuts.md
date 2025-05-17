@@ -74,6 +74,7 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 | `⌘ 1`     |       | Open the File List         |
 | `⌘ 2`     |       | Open Search Panel          |
 | `⌘ 3`     |       | Show Bookmarks Panel       |
+| `⌘ 4`     |       | Focus on note-outline      |
 | `⌘ P`     |       | Command palette            |
 | `⌘ O`     |       | Open file                  |
 | `⌘ ⇧ F`   |       | Advanced search            |
