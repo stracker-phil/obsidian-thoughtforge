@@ -86,21 +86,19 @@ The plugin gives each top-level folder in the sidebar a distinct color. This add
 
 Animates the cursor movement, which makes it easier for me to follow the cursor movement. This is clearly a very personal and optional plugin.
 
+### Zen Mode
+
+Quickly hide most UI elements (side bars, header) with a keyboard shortcut. This helps to focus on the work, and also quickly frees UI when using Obsidian in a split-screen setup (e.g. during a Zoom call).
+
+> [!info]- Discarded alternatives
+> - `Pro Zen` - Almost identical, but has downside that frontmatter props cannot be edited in Zen mode. Also, Zen-mode is a complete own UI state (I cannot show a sidebar while in Zen mode; "Zen Mode" is more "native" here).
+> - `Typezen` - seems to only change the opacity of sidebars, so in split-screen the text does not occupy the full window width.
+
 ---
 
-## Considered
+## Optional
 
 This section describes great tools I used in the past but consciously decided to remove them from this vault in favor of more simplicity and focus on pure Markdown.
-
-### Colored Tags
-
-A simple plugin that gives each tag a different color. In case I would use tags more extensively, I would re-install this plugin, but my current [[Tag Usage Strategy]] does not justify this addition.
-
-### Omnisearch and Text Extractor
-
-The main selling point for this plugin-duo is the ability to search for text inside images and PDFs. After one year of usage, I noticed how I never needed to search for those details. The default search capacity of Obsidian is sufficient for my use case.
-
-When I find the need to search PDF or image content, I'll likely re-install those two plugins.
 
 ### Dataview
 
@@ -110,6 +108,16 @@ I might use it in case I want to create more dynamic file lists inside my folder
 
 > [!warning] Use with care
 > This plugin can create a big discrepancy between data in the Markdown file and the rendered content.
+
+### Omnisearch and Text Extractor
+
+The main selling point for this plugin-duo is the ability to search for text inside images and PDFs. After one year of usage, I noticed how I never needed to search for those details. The default search capacity of Obsidian is sufficient for my use case.
+
+When I find the need to search PDF or image content, I'll likely re-install those two plugins.
+
+### Colored Tags
+
+A simple plugin that gives each tag a different color. In case I would use tags more extensively, I would re-install this plugin, but my current [[Tag Usage Strategy]] does not justify this addition.
 
 ### CustomJS
 
