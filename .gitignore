@@ -4,4 +4,9 @@
 # Do not commit note vectors, only consider the smart-env configuration file.
 /.smart-env/*
 !/.smart-env/smart_env.json
+
+# Do not track sensitive data of the Local REST API.
 /.obsidian/plugins/obsidian-local-rest-api/data.json
+
+# Do not track the workspace layout (open file, sidebar width, etc)
+/.obsidian/workspace.json
