@@ -69,17 +69,18 @@ Editing text is inspired by keyboard shortcuts on GitHub.
 
 ## Obsidian
 
-| Shortcut | Alias | Action                     |
-| -------- | ----- | -------------------------- |
-| `⌘ 1`    |       | Open the File List         |
-| `⌘ 2`    |       | Open Search Panel          |
-| `⌘ 3`    |       | Show Bookmarks Panel       |
-| `⌘ P`    |       | Command palette            |
-| `⌘ O`    |       | Open file                  |
-| `⌘ ⇧ F`  |       | Advanced search            |
-| `⌘ D`    |       | Bookmark the current note  |
-| `⌃ S`    | `F3`  | Show or hide left sidebar  |
-| `⌃ ⌘ S`  | `F4`  | Show or hide right sidebar |
+| Shortcut  | Alias | Action                     |
+| --------- | ----- | -------------------------- |
+| `⌘ 1`     |       | Open the File List         |
+| `⌘ 2`     |       | Open Search Panel          |
+| `⌘ 3`     |       | Show Bookmarks Panel       |
+| `⌘ P`     |       | Command palette            |
+| `⌘ O`     |       | Open file                  |
+| `⌘ ⇧ F`   |       | Advanced search            |
+| `⌘ D`     |       | Bookmark the current note  |
+| `⌃ S`     | `F3`  | Show or hide left sidebar  |
+| `⌃ ⌘ S`   | `F4`  | Show or hide right sidebar |
+| `⌃ ⌥ ⌘ F` |       | Toggle Zen mode            |
 
 ### General Navigation
 

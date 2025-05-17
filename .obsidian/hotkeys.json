@@ -404,5 +404,15 @@
       ],
       "key": "D"
     }
+  ],
+  "zenmode:toggle-zen-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }
