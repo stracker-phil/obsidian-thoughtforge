@@ -39,6 +39,22 @@ This vault template helps you:
 - [ ] Rename the folder `2-Work` to include your company name (e.g., `2-Acme`)
 - [ ] Open [[@My Full Name]], hit `F2` and rename the file to your name, e.g. `@Philipp Stracker`
 - [ ] Optionally rename `4-Quests` to `4-Projects` or `4-Ventures` if you prefer a different folder name
+- [ ] Review the [[5-Knowledge/ThoughtForge/Which Plugins I Use and Why|documentation on included plugins]] to better understand what plugins are included why. Update it, in case you choose to not use some of the optional plugins
+
+Some optional plugins are included with a recommended config file but disabled initially. You can either enable them, leave them disabled for now, or completely delete them.
+
+**To use automation and MCP** (for AI integrations):
+
+- [ ] Enable the plugin "Smart Connections"
+- [ ] Enable the plugin "Local REST API"
+	- [ ] Navigate to the Local REST API settings: Copy-paste the generated API key
+- [ ] Enable the plugin "MCP Tools"
+	- [ ] Navigate to the MCP Tools settings: Click the "Install server" button. You'll need the API key from above to finish the setup.
+
+**To enable automatic Git backups**
+
+- [ ] Enable the plugin "Git"
+	- [ ] Navigate to the Git settings: Adjust the author name and email (quite far down)
 
 ### 2. Explore Key Features
 
