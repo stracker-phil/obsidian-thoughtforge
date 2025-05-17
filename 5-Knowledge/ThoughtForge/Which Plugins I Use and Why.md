@@ -94,6 +94,12 @@ Quickly hide most UI elements (side bars, header) with a keyboard shortcut. This
 > - `Pro Zen` - Almost identical, but has downside that frontmatter props cannot be edited in Zen mode. Also, Zen-mode is a complete own UI state (I cannot show a sidebar while in Zen mode; "Zen Mode" is more "native" here).
 > - `Typezen` - seems to only change the opacity of sidebars, so in split-screen the text does not occupy the full window width.
 
+## AI Integrations
+
+### Smart Connections
+
+Excellent RAG solution that vectorizes the vault locally and provides an API for AI tool integration. It comes with a 1-click CustomGPT setup, making it easy to connect the Vault to an OpenAI Plus account.
+
 ---
 
 ## Optional

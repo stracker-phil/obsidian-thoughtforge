@@ -1,1 +1,6 @@
+# Do not commit the trash folder.
 /.trash
+
+# Do not commit note vectors, only consider the smart-env configuration file.
+/.smart-env/*
+!/.smart-env/smart_env.json
