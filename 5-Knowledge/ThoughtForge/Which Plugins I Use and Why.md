@@ -56,6 +56,12 @@ Helps me to maintain a clean, minimalistic Obsidian UI. This plugin allows me to
 
 > Plugins that are fully optional, yet helpful for my workflow.
 
+### Git
+
+Mainly used as an additional back-up tool for the Vault, so all changes are transparent and can be undone. The plugin creates a new commit 30 minutes after stopping file edits. The commits also capture installed plugins and settings.
+
+Tip: Use the command `Git: List Changed Files` to see which files you have changed since the last auto-commit.
+
 ### Mention Things
 
 A quicker way to insert cross-links between certain note types. I extensively use the `@`-notation to mention people in all kind of notes.
