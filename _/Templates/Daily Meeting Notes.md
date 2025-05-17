@@ -8,8 +8,11 @@ Use `⌘ ⌥ O` to open the current Daily note, place the cursor to the relevant
 _%>
 
 ### Meeting: <% tp.file.cursor(1) %>
+
 Last meeting: %% Link to previous Journal entry / delete this line %%
 Key attendees:
 
-**My agenda or questions**:
-**Notes**:
+#### Agenda, Questions
+%%My preparation notes, agenda shared by the organizer, questions I have%%
+
+#### Notes
