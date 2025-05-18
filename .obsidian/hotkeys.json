@@ -431,5 +431,14 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:_/Templates/Hotkeys/Toggle Checkbox.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

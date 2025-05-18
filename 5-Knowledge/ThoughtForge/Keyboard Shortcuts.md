@@ -44,21 +44,22 @@
 
 Editing text is inspired by keyboard shortcuts on GitHub.
 
-| Shortcut | Alias   | Action                         |
-| -------- | ------- | ------------------------------ |
-| `⌥ ↑`    |         | Move current line up           |
-| `⌥ ↓`    |         | Move current line down         |
-| `⌘ ⇧ ´`  |         | Create code block              |
-| `⌘ ´`    |         | Toggle inline code             |
-| `⌘ B`    |         | Toggle bold                    |
-| `⌘ I`    |         | Toggle italic                  |
-| `⌘ K`    |         | Insert link                    |
-| `⌘ L`    |         | Toggle checkbox/task           |
-| `⌘ H`    |         | Toggle highlight               |
-| `⌘ ⇧ 7`  | `⌘ ⇧ O` | Toggle ordered list            |
-| `⌘ ⇧ 8`  | `⌘ ⇧ U` | Toggle unordered list          |
-| `⌘ ⇧ .`  |         | Toggle block quote             |
-| `⌘ ⇧ J`  |         | Insert Callout (via Templater) |
+| Shortcut | Alias   | Action                          |
+| -------- | ------- | ------------------------------- |
+| `⌥ ↑`    |         | Move current line up            |
+| `⌥ ↓`    |         | Move current line down          |
+| `⌘ ⇧ ´`  |         | Create code block               |
+| `⌘ ´`    |         | Toggle inline code              |
+| `⌘ B`    |         | Toggle bold                     |
+| `⌘ I`    |         | Toggle italic                   |
+| `⌘ K`    |         | Insert link                     |
+| `⌘ L`    |         | Toggle checkbox/task            |
+| `⌘ ⇧ L`  |         | Change checkbox (via Templater) |
+| `⌘ H`    |         | Toggle highlight                |
+| `⌘ ⇧ 7`  | `⌘ ⇧ O` | Toggle ordered list             |
+| `⌘ ⇧ 8`  | `⌘ ⇧ U` | Toggle unordered list           |
+| `⌘ ⇧ .`  |         | Toggle block quote              |
+| `⌘ ⇧ J`  |         | Insert Callout (via Templater)  |
 
 ## Folders
 
