@@ -9,7 +9,6 @@
   "logseq-outline@@setting-outline-guideline-width": 1,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
   "minimal-style@@sidebar-tabs-names": "tab-names-single",
-  "minimal-advanced@@styled-scrollbars": false,
   "minimal-advanced@@hide-settings-desc": false,
   "minimal-style@@h1-l": false,
   "minimal-style@@h1-variant": "normal",
