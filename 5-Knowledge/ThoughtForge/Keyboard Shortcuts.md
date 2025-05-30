@@ -24,6 +24,7 @@
 | `⌘ ⇧ E`  | Toggle edit mode between preview and source mode |
 | `⇧ ⌥ P`  | Add a property to the note                       |
 | `⌃ ⌥ P`  | Show or hide properties in the note              |
+| `⇧ ⌥ F`  | Lint the current file                            |
 
 ### Navigate in Current Note
 
