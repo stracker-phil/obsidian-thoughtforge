@@ -1,7 +1,9 @@
 ---
-aliases: 
-  - "Personal"
-  - "About Me"
+aliases:
+  - Personal
+  - About Me
+tags:
+  - linker-exclude
 ---
 
 # About Me
