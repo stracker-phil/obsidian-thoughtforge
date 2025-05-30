@@ -4,6 +4,11 @@ This hotkey template is used by the Templater plugin to provide an UI for genera
 
 Default hotkey: ⌘ ⇧ J
 Reference: https://github.com/SilentVoid13/Templater/discussions/922
+
+How to add new Callouts:
+1. Open the "Settings > Callout Manager" page
+2. Create a new callout on that page
+3. Update the "callouts" configuration below, by adding the name and a label for the callout
 */
 
 // Set to true to sort the list by callout name.
@@ -18,7 +23,7 @@ const addNumberPrefix = true;
 const uppercaseType = true;
 
 const callouts = {
-    //  Callout name  |  Prompt Name    |  UI Icon Description
+    //  Callout name  |  Prompt Label    |  Personal Description
 
     // Red - Critical/Error group
     "bug":            "🟥 🪳 Bug",        // Bug icon
